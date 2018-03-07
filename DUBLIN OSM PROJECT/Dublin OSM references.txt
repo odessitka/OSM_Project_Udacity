@@ -1,0 +1,14 @@
+﻿References:
+
+
+Sources for validating street types: 
+https://en.wikipedia.org/wiki/Street_suffix https://www.landservices.sa.gov.au/1online_services/10propertyassist/Help_for_Business_Users/StreetTypes.asp
+
+Number of pubs in Dublin:
+http://publin.ie/2017/how-many-pubs-are-there-in-dublin-3
+
+Importing csv file to sql database:
+http://hosseinkaz.blogspot.ie/2014/11/importing-csv-file-into-sqlite3-python.html
+
+Reading and writing csv file:
+https://stackoverflow.com/questions/3146571/read-and-write-on-same-csv-file
